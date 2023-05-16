@@ -1,1 +1,1 @@
-# SomaImparesNaoMultiplosDe5
+# Soma impares nao multiplos de 5
